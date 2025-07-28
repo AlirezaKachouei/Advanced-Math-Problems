@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📚 Advanced Math Problems & Solutions | مسائل و راه‌حل‌های پیشرفته ریاضی
 
 A growing collection of challenging problems and detailed solutions in core areas of mathematics, designed for students and enthusiasts who want to deepen their understanding.
@@ -50,4 +50,4 @@ Just open an **Issue** or submit a **Pull Request** — all contributions are we
 
 > © Educational use only. For non-commercial purposes.  
 > Inspired by classic textbooks and advanced math challenges.
->>>>>>> 
+
