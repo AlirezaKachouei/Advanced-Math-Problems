@@ -1,5 +1,5 @@
 
-# 📚 Advanced Math Problems & Solutions | مسائل و راه‌حل‌های پیشرفته ریاضی
+# 📚 Advanced Math Problems | مسائل  پیشرفته ریاضی
 
 A growing collection of challenging problems and detailed solutions in core areas of mathematics, designed for students and enthusiasts who want to deepen their understanding.
 
